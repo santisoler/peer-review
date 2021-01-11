@@ -72,8 +72,7 @@ Below I provide more detailed comments.
 
 Sincerely,
 
-Leonardo Uieda
-Lecturer - University of Liverpool, UK
+Santiago Soler
 
 
 ## Corrections and comments

@@ -21,6 +21,14 @@ well.
 
 ## License
 
-You are free to reuse, share, and modify the contents of this lesson under the
-terms of the Creative Commons Attribution 4.0 license and the BSD-3-clause
-license (see [LICENSE.md](LICENSE.md) for details).
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+This repository is a fork of
+[leouieda/peer-review](https://github.com/leouieda/peer-review) released under
+the Creative Commons Attribution 4.0 license and the BSD-3-clause license.
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
