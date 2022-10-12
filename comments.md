@@ -9,11 +9,19 @@ General comments on the quality of the submission and my overall thoughts.
 Summarize major strengths and flaws.
 **Be sure to say something positive!**
 
-**Paragraphs 3+:**
+## Major comments
+
 More detailed analysis of specific issues: text organization, figures, methods,
 results, and conclusions.
 **Don't just point out problems, also include suggestions for solving them.**
 Always give constructive feedback.
+State that the alternatives provided are optional:
+
+> In the following paragraphs a more detailed analysis of the manuscript will be
+> presented, along with some suggestions to solve the issues raised by this
+> reviewer.
+> These suggestions are not impositions and the authors are free to apply any
+> alternative ways to solve them.
 
 Specific things to check in the text;
 * Use of English
